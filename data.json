@@ -3,6 +3,10 @@
         "name": "shreya",
         "age": "22",
         "email": "abc@gmail.com"
+    },
+    {
+        "name": "suyash",
+        "age": "21",
+        "email": "az@gmail.com"
     }
-    
 ]
